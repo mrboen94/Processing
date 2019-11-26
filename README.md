@@ -5,8 +5,8 @@ A simple sorting algorithm visualization
 
 ## 2. Earth
 A rotating earth with a starry sky. The main purpose of this project was to test out different light sources.
-![image](/images/earth.png)
-![gif](/images/earth.gif)
+![image](/images/earth.png | width=200)
+![gif](/images/earth.gif | width=100)
 
 ## 3. OutrunFlying
 A outrun themed music visualizer based on Coding Train terrain generation coding challenge #11.
