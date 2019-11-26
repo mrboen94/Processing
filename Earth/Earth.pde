@@ -25,7 +25,5 @@ void draw() {
   
   rotateY(angle += 0.01);
   rotateX(19);
-  float s = mouseX / float(width);
-  specular(s, s, s);
   shape(globe);
 }
